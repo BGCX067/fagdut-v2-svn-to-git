@@ -1,0 +1,674 @@
+<?xml version="1.0" standalone="yes"?>
+<DATAPACKET Version="2.0">
+<METADATA>
+<FIELDS>
+<FIELD FieldName="PIN" DisplayLabel="PIN" FieldType="String" FieldClass="TField"/>
+<FIELD FieldName="Name" DisplayLabel="Name" FieldType="String" FieldClass="TField"/>
+<FIELD FieldName="CHECKTIME" DisplayLabel="CHECKTIME" FieldType="DateTime" FieldClass="TField"/>
+</FIELDS>
+</METADATA>
+<ROWDATA>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="03/09/2012 15:09"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="03/09/2012 18:01"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="03/09/2012 19:32"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="04/09/2012 15:06"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="04/09/2012 19:27"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="05/09/2012 7:32"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="05/09/2012 16:02"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="05/09/2012 19:42"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="06/09/2012 15:07"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="06/09/2012 15:07"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="06/09/2012 19:46"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="07/09/2012 14:52"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="07/09/2012 15:54"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="07/09/2012 19:43"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="10/09/2012 14:51"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="10/09/2012 16:01"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="10/09/2012 19:04"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="11/09/2012 15:07"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="11/09/2012 18:57"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="11/09/2012 19:07"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="12/09/2012 15:04"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="12/09/2012 19:31"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="13/09/2012 15:08"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="13/09/2012 19:43"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="14/09/2012 14:56"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="14/09/2012 21:35"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="17/09/2012 15:06"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="17/09/2012 16:49"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="17/09/2012 19:30"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="18/09/2012 15:10"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="18/09/2012 19:43"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="19/09/2012 15:04"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="19/09/2012 15:58"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="19/09/2012 19:32"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="20/09/2012 14:52"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="21/09/2012 14:43"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="21/09/2012 19:20"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="25/09/2012 14:59"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="25/09/2012 16:31"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="25/09/2012 19:50"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="26/09/2012 15:01"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="26/09/2012 19:32"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="27/09/2012 15:06"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="28/09/2012 15:07"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="28/09/2012 17:16"/>
+<ROW PIN="2" Name="Cristian Liendo" CHECKTIME="28/09/2012 20:13"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="03/09/2012 14:29"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="03/09/2012 18:40"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="04/09/2012 9:04"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="04/09/2012 13:18"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="04/09/2012 16:03"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="04/09/2012 16:04"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="05/09/2012 7:32"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="05/09/2012 18:52"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="06/09/2012 8:38"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="07/09/2012 14:40"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="07/09/2012 18:43"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="08/09/2012 8:04"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="08/09/2012 13:50"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="10/09/2012 14:32"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="10/09/2012 18:38"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="11/09/2012 8:59"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="11/09/2012 12:56"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="12/09/2012 14:32"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="12/09/2012 18:29"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="13/09/2012 9:04"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="13/09/2012 13:00"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="14/09/2012 14:53"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="14/09/2012 19:08"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="17/09/2012 14:32"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="17/09/2012 18:28"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="18/09/2012 8:54"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="18/09/2012 12:53"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="19/09/2012 14:33"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="19/09/2012 18:16"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="20/09/2012 8:57"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="20/09/2012 13:01"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="21/09/2012 14:33"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="21/09/2012 18:26"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="25/09/2012 9:05"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="25/09/2012 13:10"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="26/09/2012 14:36"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="26/09/2012 18:37"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="27/09/2012 8:56"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="27/09/2012 12:54"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="28/09/2012 14:47"/>
+<ROW PIN="3" Name="Ma. Elvira Cabrera" CHECKTIME="28/09/2012 18:42"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="03/09/2012 14:49"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="03/09/2012 19:42"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="05/09/2012 7:32"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="05/09/2012 19:07"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="06/09/2012 8:55"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="06/09/2012 14:22"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="07/09/2012 8:39"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="07/09/2012 14:16"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="10/09/2012 14:44"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="10/09/2012 19:04"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="11/09/2012 8:42"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="11/09/2012 12:56"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="12/09/2012 14:54"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="12/09/2012 19:46"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="13/09/2012 8:49"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="13/09/2012 13:05"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="14/09/2012 8:55"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="14/09/2012 15:13"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="17/09/2012 14:32"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="17/09/2012 19:07"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="18/09/2012 8:48"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="18/09/2012 12:53"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="19/09/2012 15:04"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="19/09/2012 19:19"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="20/09/2012 13:03"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="21/09/2012 9:02"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="21/09/2012 13:11"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="25/09/2012 8:41"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="25/09/2012 20:30"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="26/09/2012 15:04"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="26/09/2012 19:36"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="27/09/2012 8:54"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="28/09/2012 9:27"/>
+<ROW PIN="4" Name="Ma. Guillermina Cabrera" CHECKTIME="28/09/2012 13:14"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="03/09/2012 16:22"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="04/09/2012 14:02"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="04/09/2012 14:04"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="04/09/2012 18:27"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="05/09/2012 7:40"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="05/09/2012 9:11"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="05/09/2012 9:31"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="05/09/2012 9:40"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="05/09/2012 9:57"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="05/09/2012 15:55"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="05/09/2012 20:48"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="06/09/2012 15:46"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="06/09/2012 16:59"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="07/09/2012 9:47"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="07/09/2012 14:50"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="07/09/2012 16:28"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="07/09/2012 17:39"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="10/09/2012 9:15"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="11/09/2012 17:36"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="12/09/2012 15:25"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="12/09/2012 17:58"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="14/09/2012 9:27"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="14/09/2012 18:20"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="14/09/2012 18:22"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="15/09/2012 9:26"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="15/09/2012 13:25"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="17/09/2012 16:21"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="18/09/2012 16:37"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="18/09/2012 18:19"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="19/09/2012 16:03"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="19/09/2012 17:51"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="19/09/2012 18:31"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="20/09/2012 14:53"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="20/09/2012 15:23"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="21/09/2012 16:04"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="25/09/2012 18:23"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="26/09/2012 16:23"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="26/09/2012 18:29"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="27/09/2012 15:34"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="27/09/2012 19:02"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="28/09/2012 16:51"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="28/09/2012 18:16"/>
+<ROW PIN="5" Name="Eduardo Marostica" CHECKTIME="28/09/2012 20:57"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="03/09/2012 17:38"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="03/09/2012 17:39"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="03/09/2012 21:11"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="04/09/2012 15:10"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="04/09/2012 16:26"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="04/09/2012 21:15"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="05/09/2012 8:00"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="05/09/2012 13:29"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="05/09/2012 13:29"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="05/09/2012 19:55"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="06/09/2012 16:48"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="06/09/2012 20:21"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="06/09/2012 21:25"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="07/09/2012 15:02"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="07/09/2012 21:22"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="10/09/2012 17:19"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="12/09/2012 15:58"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="12/09/2012 21:03"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="12/09/2012 21:15"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="13/09/2012 16:03"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="13/09/2012 21:18"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="14/09/2012 15:27"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="14/09/2012 20:56"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="14/09/2012 21:01"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="19/09/2012 15:35"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="19/09/2012 21:13"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="19/09/2012 21:16"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="19/09/2012 21:46"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="20/09/2012 15:57"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="20/09/2012 22:04"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="21/09/2012 16:06"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="21/09/2012 21:51"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="25/09/2012 16:07"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="25/09/2012 20:56"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="25/09/2012 21:10"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="26/09/2012 16:11"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="26/09/2012 21:13"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="26/09/2012 21:32"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="26/09/2012 21:32"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="27/09/2012 15:23"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="27/09/2012 21:01"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="27/09/2012 21:07"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="28/09/2012 16:12"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="28/09/2012 16:12"/>
+<ROW PIN="6" Name="Lorena Ruiz" CHECKTIME="28/09/2012 21:40"/>
+<ROW PIN="10" Name="Eduardo Mutazzi" CHECKTIME="05/09/2012 11:17"/>
+<ROW PIN="10" Name="Eduardo Mutazzi" CHECKTIME="10/09/2012 18:16"/>
+<ROW PIN="10" Name="Eduardo Mutazzi" CHECKTIME="18/09/2012 17:24"/>
+<ROW PIN="10" Name="Eduardo Mutazzi" CHECKTIME="25/09/2012 17:08"/>
+<ROW PIN="10" Name="Eduardo Mutazzi" CHECKTIME="26/09/2012 17:30"/>
+<ROW PIN="13" Name="Silvina Vizzani" CHECKTIME="12/09/2012 15:45"/>
+<ROW PIN="15" Name="Liliana Lombardo" CHECKTIME="04/09/2012 18:42"/>
+<ROW PIN="15" Name="Liliana Lombardo" CHECKTIME="10/09/2012 16:23"/>
+<ROW PIN="15" Name="Liliana Lombardo" CHECKTIME="12/09/2012 16:48"/>
+<ROW PIN="15" Name="Liliana Lombardo" CHECKTIME="14/09/2012 16:31"/>
+<ROW PIN="15" Name="Liliana Lombardo" CHECKTIME="19/09/2012 16:46"/>
+<ROW PIN="15" Name="Liliana Lombardo" CHECKTIME="26/09/2012 16:50"/>
+<ROW PIN="15" Name="Liliana Lombardo" CHECKTIME="28/09/2012 17:04"/>
+<ROW PIN="16" Name="Hector Boveri" CHECKTIME="20/09/2012 18:52"/>
+<ROW PIN="16" Name="Hector Boveri" CHECKTIME="25/09/2012 19:01"/>
+<ROW PIN="16" Name="Hector Boveri" CHECKTIME="27/09/2012 18:47"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="03/09/2012 8:59"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="03/09/2012 9:05"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="03/09/2012 9:12"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="03/09/2012 9:37"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="03/09/2012 10:20"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="03/09/2012 10:22"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="03/09/2012 13:04"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="03/09/2012 13:22"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="03/09/2012 13:24"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="03/09/2012 13:52"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="03/09/2012 14:34"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="03/09/2012 15:55"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="03/09/2012 16:28"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="04/09/2012 9:15"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="04/09/2012 9:20"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="04/09/2012 9:33"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="04/09/2012 9:38"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="04/09/2012 15:28"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="04/09/2012 17:41"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="04/09/2012 17:41"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="04/09/2012 18:36"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="04/09/2012 18:39"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="05/09/2012 12:52"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="05/09/2012 14:09"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="05/09/2012 14:15"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="07/09/2012 15:13"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="07/09/2012 15:39"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="10/09/2012 9:20"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="10/09/2012 14:59"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="10/09/2012 15:23"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="11/09/2012 9:27"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="11/09/2012 9:40"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="12/09/2012 9:19"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="12/09/2012 9:20"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="12/09/2012 9:22"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="12/09/2012 9:23"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="14/09/2012 18:37"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="14/09/2012 19:08"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="18/09/2012 9:19"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="28/09/2012 16:48"/>
+<ROW PIN="20" Name="Alberto Gomez" CHECKTIME="28/09/2012 17:02"/>
+<ROW PIN="29" Name="Jose Mottura" CHECKTIME="03/09/2012 18:52"/>
+<ROW PIN="29" Name="Jose Mottura" CHECKTIME="17/09/2012 19:00"/>
+<ROW PIN="31" Name="31" CHECKTIME="01/09/2012 8:41"/>
+<ROW PIN="31" Name="31" CHECKTIME="01/09/2012 11:17"/>
+<ROW PIN="31" Name="31" CHECKTIME="04/09/2012 14:42"/>
+<ROW PIN="31" Name="31" CHECKTIME="04/09/2012 16:44"/>
+<ROW PIN="31" Name="31" CHECKTIME="04/09/2012 17:32"/>
+<ROW PIN="31" Name="31" CHECKTIME="04/09/2012 19:13"/>
+<ROW PIN="31" Name="31" CHECKTIME="05/09/2012 8:43"/>
+<ROW PIN="31" Name="31" CHECKTIME="05/09/2012 13:58"/>
+<ROW PIN="31" Name="31" CHECKTIME="06/09/2012 9:29"/>
+<ROW PIN="31" Name="31" CHECKTIME="06/09/2012 15:07"/>
+<ROW PIN="31" Name="31" CHECKTIME="06/09/2012 15:08"/>
+<ROW PIN="31" Name="31" CHECKTIME="11/09/2012 16:02"/>
+<ROW PIN="31" Name="31" CHECKTIME="11/09/2012 18:33"/>
+<ROW PIN="31" Name="31" CHECKTIME="12/09/2012 16:42"/>
+<ROW PIN="31" Name="31" CHECKTIME="12/09/2012 18:29"/>
+<ROW PIN="31" Name="31" CHECKTIME="12/09/2012 18:33"/>
+<ROW PIN="31" Name="31" CHECKTIME="13/09/2012 15:03"/>
+<ROW PIN="31" Name="31" CHECKTIME="13/09/2012 18:23"/>
+<ROW PIN="31" Name="31" CHECKTIME="15/09/2012 8:02"/>
+<ROW PIN="31" Name="31" CHECKTIME="15/09/2012 9:19"/>
+<ROW PIN="31" Name="31" CHECKTIME="15/09/2012 10:41"/>
+<ROW PIN="31" Name="31" CHECKTIME="18/09/2012 18:23"/>
+<ROW PIN="31" Name="31" CHECKTIME="19/09/2012 15:48"/>
+<ROW PIN="31" Name="31" CHECKTIME="19/09/2012 18:05"/>
+<ROW PIN="31" Name="31" CHECKTIME="20/09/2012 14:35"/>
+<ROW PIN="31" Name="31" CHECKTIME="22/09/2012 7:51"/>
+<ROW PIN="31" Name="31" CHECKTIME="22/09/2012 9:19"/>
+<ROW PIN="31" Name="31" CHECKTIME="22/09/2012 9:26"/>
+<ROW PIN="31" Name="31" CHECKTIME="22/09/2012 11:06"/>
+<ROW PIN="31" Name="31" CHECKTIME="25/09/2012 18:22"/>
+<ROW PIN="31" Name="31" CHECKTIME="26/09/2012 14:45"/>
+<ROW PIN="31" Name="31" CHECKTIME="26/09/2012 14:51"/>
+<ROW PIN="31" Name="31" CHECKTIME="26/09/2012 16:21"/>
+<ROW PIN="31" Name="31" CHECKTIME="26/09/2012 16:52"/>
+<ROW PIN="31" Name="31" CHECKTIME="27/09/2012 16:20"/>
+<ROW PIN="31" Name="31" CHECKTIME="27/09/2012 16:23"/>
+<ROW PIN="31" Name="31" CHECKTIME="27/09/2012 16:57"/>
+<ROW PIN="31" Name="31" CHECKTIME="28/09/2012 15:43"/>
+<ROW PIN="31" Name="31" CHECKTIME="29/09/2012 9:12"/>
+<ROW PIN="31" Name="31" CHECKTIME="29/09/2012 10:43"/>
+<ROW PIN="31" Name="31" CHECKTIME="29/09/2012 11:30"/>
+<ROW PIN="34" Name="34" CHECKTIME="01/09/2012 8:24"/>
+<ROW PIN="34" Name="34" CHECKTIME="04/09/2012 9:27"/>
+<ROW PIN="34" Name="34" CHECKTIME="11/09/2012 9:35"/>
+<ROW PIN="34" Name="34" CHECKTIME="14/09/2012 19:00"/>
+<ROW PIN="34" Name="34" CHECKTIME="15/09/2012 13:46"/>
+<ROW PIN="34" Name="34" CHECKTIME="21/09/2012 18:48"/>
+<ROW PIN="34" Name="34" CHECKTIME="22/09/2012 8:37"/>
+<ROW PIN="34" Name="34" CHECKTIME="25/09/2012 9:25"/>
+<ROW PIN="34" Name="34" CHECKTIME="28/09/2012 19:14"/>
+<ROW PIN="34" Name="34" CHECKTIME="29/09/2012 8:28"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="03/09/2012 16:51"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="03/09/2012 21:11"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="05/09/2012 7:41"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="05/09/2012 17:35"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="05/09/2012 21:04"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="06/09/2012 17:01"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="06/09/2012 21:10"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="07/09/2012 17:24"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="07/09/2012 21:00"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="10/09/2012 17:28"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="10/09/2012 21:01"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="12/09/2012 18:19"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="12/09/2012 22:33"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="13/09/2012 16:49"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="14/09/2012 18:21"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="14/09/2012 22:35"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="17/09/2012 16:49"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="17/09/2012 21:04"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="19/09/2012 18:23"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="19/09/2012 22:36"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="20/09/2012 17:06"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="20/09/2012 21:04"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="21/09/2012 18:29"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="21/09/2012 19:22"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="21/09/2012 22:36"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="26/09/2012 18:20"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="26/09/2012 22:40"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="28/09/2012 16:26"/>
+<ROW PIN="37" Name="Rocio Beltramini" CHECKTIME="28/09/2012 20:45"/>
+<ROW PIN="39" Name="Oscar Rovere" CHECKTIME="04/09/2012 17:36"/>
+<ROW PIN="39" Name="Oscar Rovere" CHECKTIME="05/09/2012 16:56"/>
+<ROW PIN="39" Name="Oscar Rovere" CHECKTIME="06/09/2012 17:39"/>
+<ROW PIN="39" Name="Oscar Rovere" CHECKTIME="11/09/2012 17:56"/>
+<ROW PIN="39" Name="Oscar Rovere" CHECKTIME="12/09/2012 17:01"/>
+<ROW PIN="39" Name="Oscar Rovere" CHECKTIME="14/09/2012 15:55"/>
+<ROW PIN="39" Name="Oscar Rovere" CHECKTIME="18/09/2012 17:35"/>
+<ROW PIN="39" Name="Oscar Rovere" CHECKTIME="20/09/2012 19:41"/>
+<ROW PIN="39" Name="Oscar Rovere" CHECKTIME="20/09/2012 20:42"/>
+<ROW PIN="39" Name="Oscar Rovere" CHECKTIME="27/09/2012 18:31"/>
+<ROW PIN="39" Name="Oscar Rovere" CHECKTIME="27/09/2012 18:42"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="01/09/2012 7:50"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="01/09/2012 9:39"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="01/09/2012 13:59"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="03/09/2012 9:15"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="03/09/2012 9:28"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="03/09/2012 10:46"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="03/09/2012 12:57"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="03/09/2012 12:57"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="05/09/2012 6:35"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="05/09/2012 14:49"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="05/09/2012 15:33"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="05/09/2012 16:49"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="05/09/2012 17:32"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="05/09/2012 20:22"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="05/09/2012 21:03"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="06/09/2012 8:28"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="06/09/2012 9:13"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="06/09/2012 9:26"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="06/09/2012 10:02"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="06/09/2012 11:33"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="06/09/2012 11:59"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="06/09/2012 17:03"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="06/09/2012 18:22"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="06/09/2012 19:13"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="06/09/2012 20:00"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="06/09/2012 21:26"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="07/09/2012 14:48"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="07/09/2012 17:27"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="07/09/2012 18:39"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="07/09/2012 19:20"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="07/09/2012 21:24"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="08/09/2012 7:50"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="08/09/2012 8:14"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="08/09/2012 12:47"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="08/09/2012 13:51"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="10/09/2012 8:46"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="10/09/2012 14:24"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="12/09/2012 18:36"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="12/09/2012 22:34"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="13/09/2012 8:41"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="13/09/2012 9:15"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="13/09/2012 12:07"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="13/09/2012 12:10"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="13/09/2012 12:57"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="14/09/2012 14:53"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="14/09/2012 18:54"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="15/09/2012 7:53"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="15/09/2012 12:55"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="15/09/2012 14:09"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="17/09/2012 13:15"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="17/09/2012 17:27"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="19/09/2012 17:45"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="19/09/2012 22:37"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="20/09/2012 8:26"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="20/09/2012 9:46"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="20/09/2012 13:07"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="21/09/2012 14:52"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="21/09/2012 18:52"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="22/09/2012 7:52"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="22/09/2012 13:52"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="28/09/2012 14:50"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="28/09/2012 22:18"/>
+<ROW PIN="40" Name="Christian Barreto" CHECKTIME="29/09/2012 13:54"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="03/09/2012 8:49"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="03/09/2012 8:49"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="03/09/2012 8:56"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="03/09/2012 13:09"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="03/09/2012 15:19"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="03/09/2012 17:58"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="03/09/2012 18:18"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="04/09/2012 13:42"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="04/09/2012 14:35"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="04/09/2012 14:45"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="04/09/2012 22:05"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="05/09/2012 7:49"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="05/09/2012 8:17"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="05/09/2012 9:41"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="05/09/2012 10:01"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="05/09/2012 10:16"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="05/09/2012 10:52"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="05/09/2012 11:15"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="05/09/2012 11:31"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="05/09/2012 12:52"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="05/09/2012 13:18"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="05/09/2012 14:00"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="05/09/2012 15:12"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="05/09/2012 15:42"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="05/09/2012 16:33"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="06/09/2012 8:36"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="06/09/2012 10:17"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="06/09/2012 12:17"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="06/09/2012 15:01"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="06/09/2012 18:36"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="07/09/2012 13:53"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="07/09/2012 14:00"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="07/09/2012 14:11"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="07/09/2012 14:57"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="07/09/2012 16:47"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="07/09/2012 16:52"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="07/09/2012 18:14"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="07/09/2012 21:23"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="10/09/2012 10:51"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="10/09/2012 18:42"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="11/09/2012 13:37"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="11/09/2012 15:20"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="11/09/2012 15:21"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="11/09/2012 22:18"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="12/09/2012 13:52"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="12/09/2012 14:52"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="12/09/2012 17:20"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="13/09/2012 12:51"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="13/09/2012 13:43"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="13/09/2012 20:17"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="13/09/2012 22:24"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="14/09/2012 13:36"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="14/09/2012 13:50"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="14/09/2012 14:29"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="14/09/2012 15:18"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="14/09/2012 22:39"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="15/09/2012 8:07"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="15/09/2012 14:10"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="17/09/2012 8:52"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="17/09/2012 13:17"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="17/09/2012 18:25"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="18/09/2012 13:46"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="18/09/2012 13:55"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="18/09/2012 21:58"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="19/09/2012 8:51"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="19/09/2012 13:24"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="19/09/2012 14:18"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="19/09/2012 16:52"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="19/09/2012 17:12"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="20/09/2012 13:34"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="20/09/2012 13:34"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="20/09/2012 13:55"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="20/09/2012 19:18"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="20/09/2012 22:27"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="21/09/2012 13:23"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="21/09/2012 13:23"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="21/09/2012 13:35"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="21/09/2012 18:55"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="21/09/2012 22:36"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="25/09/2012 13:32"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="25/09/2012 13:51"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="25/09/2012 22:07"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="26/09/2012 8:45"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="26/09/2012 13:18"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="26/09/2012 14:34"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="26/09/2012 17:08"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="27/09/2012 13:39"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="27/09/2012 13:39"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="27/09/2012 13:49"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="27/09/2012 18:52"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="27/09/2012 22:29"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="28/09/2012 13:32"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="28/09/2012 13:33"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="28/09/2012 13:33"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="28/09/2012 13:58"/>
+<ROW PIN="41" Name="Ivan Tinivella" CHECKTIME="28/09/2012 22:17"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="03/09/2012 13:12"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="05/09/2012 12:44"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="05/09/2012 13:10"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="05/09/2012 15:42"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="05/09/2012 16:49"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="05/09/2012 17:08"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="06/09/2012 20:30"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="06/09/2012 20:59"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="07/09/2012 16:15"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="10/09/2012 18:53"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="11/09/2012 19:14"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="12/09/2012 18:56"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="14/09/2012 18:52"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="14/09/2012 20:42"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="20/09/2012 20:53"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="21/09/2012 19:29"/>
+<ROW PIN="42" Name="Soledad Michalek" CHECKTIME="26/09/2012 19:46"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="01/09/2012 7:55"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="01/09/2012 13:59"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="03/09/2012 18:05"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="03/09/2012 22:08"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="04/09/2012 10:26"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="04/09/2012 11:04"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="04/09/2012 11:15"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="04/09/2012 16:49"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="04/09/2012 21:06"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="05/09/2012 6:53"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="05/09/2012 13:28"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="05/09/2012 14:53"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="05/09/2012 15:16"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="05/09/2012 17:01"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="05/09/2012 20:55"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="06/09/2012 11:45"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="06/09/2012 11:45"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="06/09/2012 11:57"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="06/09/2012 12:01"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="06/09/2012 14:59"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="06/09/2012 19:35"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="07/09/2012 7:40"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="07/09/2012 8:50"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="07/09/2012 15:29"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="07/09/2012 20:10"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="10/09/2012 17:57"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="10/09/2012 22:07"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="11/09/2012 16:30"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="11/09/2012 19:15"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="12/09/2012 9:31"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="12/09/2012 9:36"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="12/09/2012 12:54"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="14/09/2012 9:14"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="14/09/2012 12:53"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="17/09/2012 17:50"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="17/09/2012 21:56"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="18/09/2012 15:03"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="18/09/2012 18:44"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="19/09/2012 8:56"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="19/09/2012 13:14"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="20/09/2012 14:44"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="20/09/2012 22:25"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="25/09/2012 14:51"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="27/09/2012 14:36"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="27/09/2012 18:19"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="27/09/2012 22:25"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="28/09/2012 9:17"/>
+<ROW PIN="43" Name="Agustina Gianello" CHECKTIME="28/09/2012 13:14"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="04/09/2012 8:36"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="04/09/2012 12:57"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="05/09/2012 7:07"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="05/09/2012 13:36"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="06/09/2012 8:23"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="06/09/2012 14:00"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="07/09/2012 8:20"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="07/09/2012 14:16"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="11/09/2012 8:40"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="11/09/2012 11:20"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="11/09/2012 12:57"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="12/09/2012 8:36"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="12/09/2012 13:03"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="13/09/2012 8:38"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="13/09/2012 12:56"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="14/09/2012 8:42"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="14/09/2012 13:00"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="18/09/2012 8:35"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="18/09/2012 12:54"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="19/09/2012 8:39"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="19/09/2012 13:08"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="20/09/2012 8:37"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="20/09/2012 13:02"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="21/09/2012 8:35"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="21/09/2012 13:05"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="22/09/2012 7:42"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="22/09/2012 13:52"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="25/09/2012 8:37"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="25/09/2012 13:00"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="26/09/2012 8:36"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="26/09/2012 13:05"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="27/09/2012 8:43"/>
+<ROW PIN="47" Name="Valentina Cabral" CHECKTIME="27/09/2012 13:03"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="03/09/2012 17:51"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="03/09/2012 22:07"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="04/09/2012 17:29"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="04/09/2012 22:05"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="05/09/2012 7:21"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="05/09/2012 11:54"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="05/09/2012 16:59"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="05/09/2012 21:03"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="06/09/2012 14:58"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="06/09/2012 21:26"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="07/09/2012 16:53"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="07/09/2012 21:24"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="10/09/2012 17:56"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="10/09/2012 22:07"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="11/09/2012 17:53"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="11/09/2012 22:18"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="12/09/2012 17:01"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="12/09/2012 21:02"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="13/09/2012 14:54"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="13/09/2012 18:56"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="14/09/2012 18:33"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="14/09/2012 22:35"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="17/09/2012 17:55"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="17/09/2012 21:56"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="18/09/2012 17:57"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="18/09/2012 21:58"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="19/09/2012 16:53"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="19/09/2012 20:53"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="20/09/2012 14:59"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="20/09/2012 18:55"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="20/09/2012 18:55"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="20/09/2012 18:56"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="21/09/2012 18:26"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="21/09/2012 22:36"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="25/09/2012 17:55"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="25/09/2012 22:05"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="26/09/2012 17:00"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="26/09/2012 22:39"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="27/09/2012 14:59"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="27/09/2012 18:59"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="29/09/2012 8:02"/>
+<ROW PIN="48" Name="Andrea Barreto" CHECKTIME="29/09/2012 13:56"/>
+<ROW PIN="1001" Name="Omar Arino" CHECKTIME="05/09/2012 15:38"/>
+<ROW PIN="1001" Name="Omar Arino" CHECKTIME="06/09/2012 17:07"/>
+<ROW PIN="1001" Name="Omar Arino" CHECKTIME="11/09/2012 15:48"/>
+<ROW PIN="1001" Name="Omar Arino" CHECKTIME="20/09/2012 18:54"/>
+</ROWDATA>
+</DATAPACKET>
